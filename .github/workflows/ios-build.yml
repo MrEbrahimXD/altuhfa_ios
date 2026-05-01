@@ -1,0 +1,196 @@
+name: Build & Deploy iOS → TestFlight
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+  workflow_dispatch:
+
+env:
+  FLUTTER_VERSION: '3.29.3'
+
+concurrency:
+  group: ios-build-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build-ios:
+    name: Build iOS & Upload to TestFlight
+    runs-on: macos-latest
+    timeout-minutes: 60
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Resolve project directory
+        id: project
+        run: |
+          if [ -f "pubspec.yaml" ]; then
+            echo "dir=." >> "$GITHUB_OUTPUT"
+          elif [ -f "altuhfa_app/pubspec.yaml" ]; then
+            echo "dir=altuhfa_app" >> "$GITHUB_OUTPUT"
+          else
+            echo "Could not find pubspec.yaml" >&2
+            exit 1
+          fi
+
+      # ── Select latest Xcode (iOS 26 SDK required) ──────────────────
+      - name: Select latest Xcode
+        run: |
+          # List available Xcode versions
+          ls -d /Applications/Xcode*.app || true
+          # Select the latest available Xcode
+          LATEST_XCODE=$(ls -d /Applications/Xcode*.app | sort -V | tail -1)
+          echo "Using: $LATEST_XCODE"
+          sudo xcode-select -s "$LATEST_XCODE/Contents/Developer"
+          xcodebuild -version
+
+      - name: Install Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          flutter-version: ${{ env.FLUTTER_VERSION }}
+          channel: stable
+          cache: true
+
+      - name: Flutter doctor
+        run: flutter doctor -v
+
+      - name: Flutter pub get
+        working-directory: ${{ steps.project.outputs.dir }}
+        run: flutter pub get
+
+      - name: Install CocoaPods
+        working-directory: ${{ steps.project.outputs.dir }}/ios
+        run: pod install --repo-update
+
+      # ── Install Apple Distribution Certificate ───────────────────────
+      - name: Install Apple certificate
+        env:
+          DISTRIBUTION_CERTIFICATE_BASE64: ${{ secrets.DISTRIBUTION_CERTIFICATE_BASE64 }}
+          DISTRIBUTION_CERTIFICATE_PASSWORD: ${{ secrets.DISTRIBUTION_CERTIFICATE_PASSWORD }}
+          KEYCHAIN_PASSWORD: ${{ github.run_id }}_${{ github.run_attempt }}
+        run: |
+          CERTIFICATE_PATH=$RUNNER_TEMP/distribution_certificate.p12
+          KEYCHAIN_PATH=$RUNNER_TEMP/app-signing.keychain-db
+
+          echo -n "$DISTRIBUTION_CERTIFICATE_BASE64" | base64 --decode -o $CERTIFICATE_PATH
+
+          security create-keychain -p "$KEYCHAIN_PASSWORD" $KEYCHAIN_PATH
+          security set-keychain-settings -lut 21600 $KEYCHAIN_PATH
+          security unlock-keychain -p "$KEYCHAIN_PASSWORD" $KEYCHAIN_PATH
+
+          security import $CERTIFICATE_PATH \
+            -P "$DISTRIBUTION_CERTIFICATE_PASSWORD" \
+            -A -t cert -f pkcs12 -k $KEYCHAIN_PATH
+
+          security set-key-partition-list -S apple-tool:,apple:,codesign: \
+            -s -k "$KEYCHAIN_PASSWORD" $KEYCHAIN_PATH
+
+          security list-keychain -d user -s $KEYCHAIN_PATH login.keychain-db
+
+      # ── Install App Store Provisioning Profile ───────────────────────
+      - name: Install provisioning profile
+        env:
+          PROVISIONING_PROFILE_BASE64: ${{ secrets.PROVISIONING_PROFILE_BASE64 }}
+        run: |
+          PP_PATH=$RUNNER_TEMP/profile.mobileprovision
+          echo -n "$PROVISIONING_PROFILE_BASE64" | base64 --decode -o $PP_PATH
+
+          PP_UUID=$(/usr/libexec/PlistBuddy -c "Print UUID" /dev/stdin <<< \
+            $(security cms -D -i $PP_PATH))
+
+          mkdir -p ~/Library/MobileDevice/Provisioning\ Profiles
+          cp $PP_PATH ~/Library/MobileDevice/Provisioning\ Profiles/$PP_UUID.mobileprovision
+
+          echo "Installed provisioning profile: $PP_UUID"
+          echo "PP_UUID=$PP_UUID" >> "$GITHUB_ENV"
+
+      # ── Prepare ExportOptions.plist ──────────────────────────────────
+      - name: Prepare ExportOptions.plist
+        working-directory: ${{ steps.project.outputs.dir }}
+        env:
+          TEAM_ID: ${{ secrets.APPLE_TEAM_ID }}
+        run: |
+          PP_PATH=$RUNNER_TEMP/profile.mobileprovision
+          PP_NAME=$(/usr/libexec/PlistBuddy -c "Print Name" /dev/stdin <<< \
+            $(security cms -D -i $PP_PATH))
+          echo "Profile name: $PP_NAME"
+          sed -i '' "s/\$(PROVISIONING_PROFILE_NAME)/$PP_NAME/g" ios/ExportOptions.plist
+          sed -i '' "s/\$(TEAM_ID)/$TEAM_ID/g" ios/ExportOptions.plist
+          cat ios/ExportOptions.plist
+
+      # ── Build iOS (compile only) ───────────────────────────────────
+      #    Flutter compiles Dart code; xcodebuild archive handles signing.
+      - name: Build iOS release
+        working-directory: ${{ steps.project.outputs.dir }}
+        run: |
+          flutter build ios \
+            --release \
+            --no-codesign \
+            --build-number=${{ github.run_number }}
+
+      # ── Archive & Export IPA ─────────────────────────────────────────
+      - name: Archive & export IPA
+        working-directory: ${{ steps.project.outputs.dir }}
+        env:
+          TEAM_ID: ${{ secrets.APPLE_TEAM_ID }}
+        run: |
+          set -eo pipefail
+
+          xcodebuild -workspace ios/Runner.xcworkspace \
+            -scheme Runner \
+            -sdk iphoneos \
+            -configuration Release \
+            -archivePath $RUNNER_TEMP/Runner.xcarchive \
+            archive \
+            CODE_SIGN_STYLE=Manual \
+            DEVELOPMENT_TEAM="$TEAM_ID" \
+            CODE_SIGN_IDENTITY="Apple Distribution" \
+            PROVISIONING_PROFILE_SPECIFIER="$PP_UUID"
+
+          xcodebuild -exportArchive \
+            -archivePath $RUNNER_TEMP/Runner.xcarchive \
+            -exportOptionsPlist ios/ExportOptions.plist \
+            -exportPath $RUNNER_TEMP/export
+
+          IPA_PATH=$(find $RUNNER_TEMP/export -name "*.ipa" | head -1)
+          echo "IPA_PATH=$IPA_PATH" >> "$GITHUB_ENV"
+          echo "Built IPA: $IPA_PATH"
+
+      # ── Upload artifact ──────────────────────────────────────────────
+      - name: Upload IPA artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: altuhfa-ios-build-${{ github.run_number }}
+          path: ${{ env.IPA_PATH }}
+          retention-days: 30
+          if-no-files-found: error
+
+      # ── Upload to TestFlight ─────────────────────────────────────────
+      - name: Upload to TestFlight
+        if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
+        env:
+          APP_STORE_CONNECT_ISSUER_ID: ${{ secrets.APP_STORE_CONNECT_ISSUER_ID }}
+          APP_STORE_CONNECT_KEY_ID: ${{ secrets.APP_STORE_CONNECT_KEY_ID }}
+          APP_STORE_CONNECT_PRIVATE_KEY: ${{ secrets.APP_STORE_CONNECT_PRIVATE_KEY }}
+        run: |
+          mkdir -p ~/private_keys
+          echo -n "$APP_STORE_CONNECT_PRIVATE_KEY" > ~/private_keys/AuthKey_${APP_STORE_CONNECT_KEY_ID}.p8
+
+          xcrun altool --upload-app \
+            --type ios \
+            --file "$IPA_PATH" \
+            --apiKey "$APP_STORE_CONNECT_KEY_ID" \
+            --apiIssuer "$APP_STORE_CONNECT_ISSUER_ID" \
+            --verbose
+
+      # ── Cleanup ──────────────────────────────────────────────────────
+      - name: Cleanup keychain & secrets
+        if: always()
+        run: |
+          security delete-keychain $RUNNER_TEMP/app-signing.keychain-db 2>/dev/null || true
+          rm -f $RUNNER_TEMP/distribution_certificate.p12
+          rm -f $RUNNER_TEMP/profile.mobileprovision
+          rm -rf ~/private_keys

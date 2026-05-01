@@ -1,0 +1,48 @@
+name: altuhfa_app
+description: "تطبيق التحفة - تحفة الأطفال في تجويد الكلام"
+publish_to: 'none'
+version: 1.0.3+3
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  flutter_riverpod: ^2.6.1
+  just_audio: ^0.9.46
+  just_audio_background: ^0.0.1-beta.17
+  audio_session: ^0.1.25
+  google_fonts: ^6.2.1
+  shared_preferences: ^2.3.5
+  scrollable_positioned_list: ^0.3.8
+  flutter_localizations:
+    sdk: flutter
+  flutter_native_splash: ^2.4.4
+  flutter_local_notifications: ^18.0.1
+  timezone: ^0.10.0
+  path_provider: ^2.1.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.14.3
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/
+    - assets/images/
+    - assets/audio/
+    - assets/audio/reciter2/
+    - assets/audio/reciter3/
+    - assets/audio/reciter4/
+
+  fonts:
+    - family: Amiri
+      fonts:
+        - asset: assets/fonts/Amiri-Regular.ttf
+        - asset: assets/fonts/Amiri-Bold.ttf
+          weight: 700

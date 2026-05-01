@@ -1,0 +1,3158 @@
+{
+  "1": {
+    "clipDurationMs": 9330,
+    "sadrWordCount": 4,
+    "words": [
+      {
+        "word": "يَقُولُ",
+        "startMs": 0,
+        "endMs": 1840
+      },
+      {
+        "word": "رَاجِي",
+        "startMs": 1840,
+        "endMs": 2580
+      },
+      {
+        "word": "رَحْمَةِ",
+        "startMs": 2580,
+        "endMs": 3300
+      },
+      {
+        "word": "الْغَفُورِ",
+        "startMs": 3300,
+        "endMs": 4160
+      },
+      {
+        "word": "دَوْمًا",
+        "startMs": 4160,
+        "endMs": 6700
+      },
+      {
+        "word": "سُلَيْمَانُ",
+        "startMs": 6700,
+        "endMs": 7740
+      },
+      {
+        "word": "هُوَ",
+        "startMs": 7740,
+        "endMs": 8020
+      },
+      {
+        "word": "الجَمْزُورِي",
+        "startMs": 8020,
+        "endMs": 9330
+      }
+    ]
+  },
+  "2": {
+    "clipDurationMs": 8450,
+    "sadrWordCount": 4,
+    "words": [
+      {
+        "word": "الْحَمْدُ",
+        "startMs": 0,
+        "endMs": 1260
+      },
+      {
+        "word": "للَّهِ",
+        "startMs": 1260,
+        "endMs": 1840
+      },
+      {
+        "word": "مُصَلِّيًا",
+        "startMs": 1840,
+        "endMs": 2980
+      },
+      {
+        "word": "عَلَى",
+        "startMs": 2980,
+        "endMs": 3200
+      },
+      {
+        "word": "مُحَمَّدٍ",
+        "startMs": 3200,
+        "endMs": 6160
+      },
+      {
+        "word": "وَآلهِ",
+        "startMs": 6160,
+        "endMs": 7140
+      },
+      {
+        "word": "وَمَنْ",
+        "startMs": 7140,
+        "endMs": 7880
+      },
+      {
+        "word": "تَلاَ",
+        "startMs": 7880,
+        "endMs": 8450
+      }
+    ]
+  },
+  "3": {
+    "clipDurationMs": 11053,
+    "sadrWordCount": 4,
+    "words": [
+      {
+        "word": "وَبَعْدُ",
+        "startMs": 0,
+        "endMs": 2490
+      },
+      {
+        "word": "هَذَا",
+        "startMs": 2490,
+        "endMs": 2830
+      },
+      {
+        "word": "النَّظْمُ",
+        "startMs": 2830,
+        "endMs": 3570
+      },
+      {
+        "word": "لِلْمُرِيدِ",
+        "startMs": 3570,
+        "endMs": 4830
+      },
+      {
+        "word": "فِي",
+        "startMs": 4830,
+        "endMs": 6890
+      },
+      {
+        "word": "النُّونِ",
+        "startMs": 6890,
+        "endMs": 7470
+      },
+      {
+        "word": "والتَّنْوِينِ",
+        "startMs": 7470,
+        "endMs": 8430
+      },
+      {
+        "word": "وَالْمُدُودِ",
+        "startMs": 8430,
+        "endMs": 11053
+      }
+    ]
+  },
+  "4": {
+    "clipDurationMs": 8710,
+    "sadrWordCount": 3,
+    "words": [
+      {
+        "word": "سَمَّيْتُهُ",
+        "startMs": 20,
+        "endMs": 1420
+      },
+      {
+        "word": "بِتُحْفَةِ",
+        "startMs": 1420,
+        "endMs": 2520
+      },
+      {
+        "word": "الأَطْفَالِ",
+        "startMs": 2520,
+        "endMs": 3600
+      },
+      {
+        "word": "عَنْ",
+        "startMs": 3600,
+        "endMs": 4360
+      },
+      {
+        "word": "شَيْخِنَا",
+        "startMs": 4360,
+        "endMs": 6440
+      },
+      {
+        "word": "الْمِيهِىِّ",
+        "startMs": 6440,
+        "endMs": 7000
+      },
+      {
+        "word": "ذِي",
+        "startMs": 7000,
+        "endMs": 7560
+      },
+      {
+        "word": "الْكَمالِ",
+        "startMs": 7560,
+        "endMs": 8710
+      }
+    ]
+  },
+  "5": {
+    "clipDurationMs": 10280,
+    "sadrWordCount": 5,
+    "words": [
+      {
+        "word": "أَرْجُو",
+        "startMs": 0,
+        "endMs": 2410
+      },
+      {
+        "word": "بِهِ",
+        "startMs": 2410,
+        "endMs": 2710
+      },
+      {
+        "word": "أَنْ",
+        "startMs": 2710,
+        "endMs": 3170
+      },
+      {
+        "word": "يَنْفَعَ",
+        "startMs": 3170,
+        "endMs": 3770
+      },
+      {
+        "word": "الطُّلاَّبَا",
+        "startMs": 3770,
+        "endMs": 4990
+      },
+      {
+        "word": "وَالأَجْرَ",
+        "startMs": 4990,
+        "endMs": 7650
+      },
+      {
+        "word": "وَالْقَبُولَ",
+        "startMs": 7650,
+        "endMs": 8850
+      },
+      {
+        "word": "وَالثَّوَابَا",
+        "startMs": 8850,
+        "endMs": 10280
+      }
+    ]
+  },
+  "6": {
+    "clipDurationMs": 9300,
+    "sadrWordCount": 4,
+    "words": [
+      {
+        "word": "لِلنُّونِ",
+        "startMs": 10,
+        "endMs": 1310
+      },
+      {
+        "word": "إِنْ",
+        "startMs": 1310,
+        "endMs": 1510
+      },
+      {
+        "word": "تَسْكُنْ",
+        "startMs": 1510,
+        "endMs": 2730
+      },
+      {
+        "word": "وَلِلتَّنْوِينِ",
+        "startMs": 2730,
+        "endMs": 3750
+      },
+      {
+        "word": "أَرْبَعُ",
+        "startMs": 3750,
+        "endMs": 6290
+      },
+      {
+        "word": "أَحْكَامٍ",
+        "startMs": 6290,
+        "endMs": 7090
+      },
+      {
+        "word": "فَخُذْ",
+        "startMs": 7090,
+        "endMs": 7790
+      },
+      {
+        "word": "تَبْيِينِي",
+        "startMs": 7790,
+        "endMs": 9300
+      }
+    ]
+  },
+  "7": {
+    "clipDurationMs": 10130,
+    "sadrWordCount": 4,
+    "words": [
+      {
+        "word": "فَالأَوَّلُ",
+        "startMs": 40,
+        "endMs": 2200
+      },
+      {
+        "word": "الإظْهَارُ",
+        "startMs": 2200,
+        "endMs": 3160
+      },
+      {
+        "word": "قَبْلَ",
+        "startMs": 3160,
+        "endMs": 3680
+      },
+      {
+        "word": "أَحْرُفِ",
+        "startMs": 3680,
+        "endMs": 5600
+      },
+      {
+        "word": "لِلْحَلْقِ",
+        "startMs": 5600,
+        "endMs": 7300
+      },
+      {
+        "word": "سِتٌّ",
+        "startMs": 7300,
+        "endMs": 7700
+      },
+      {
+        "word": "رُتِّبَتْ",
+        "startMs": 7700,
+        "endMs": 8700
+      },
+      {
+        "word": "فَلْتَعْرِفِ",
+        "startMs": 8700,
+        "endMs": 10130
+      }
+    ]
+  },
+  "8": {
+    "clipDurationMs": 11332,
+    "sadrWordCount": 5,
+    "words": [
+      {
+        "word": "هَمْزٌ",
+        "startMs": 0,
+        "endMs": 1850
+      },
+      {
+        "word": "فَهَاءٌ",
+        "startMs": 1850,
+        "endMs": 2570
+      },
+      {
+        "word": "ثُمَّ",
+        "startMs": 2570,
+        "endMs": 3130
+      },
+      {
+        "word": "عَيْنٌ",
+        "startMs": 3130,
+        "endMs": 3770
+      },
+      {
+        "word": "حَاءُ",
+        "startMs": 3770,
+        "endMs": 6250
+      },
+      {
+        "word": "مُهْمَلَتَانِ",
+        "startMs": 6250,
+        "endMs": 7650
+      },
+      {
+        "word": "ثُمَّ",
+        "startMs": 7650,
+        "endMs": 8350
+      },
+      {
+        "word": "غَيْنٌ",
+        "startMs": 8350,
+        "endMs": 8930
+      },
+      {
+        "word": "خَاءُ",
+        "startMs": 8930,
+        "endMs": 11332
+      }
+    ]
+  },
+  "9": {
+    "clipDurationMs": 7410,
+    "sadrWordCount": 4,
+    "words": [
+      {
+        "word": "وَالثَّانِ",
+        "startMs": 20,
+        "endMs": 60
+      },
+      {
+        "word": "إِدْغَامٌ",
+        "startMs": 60,
+        "endMs": 420
+      },
+      {
+        "word": "بِسِتَّةٍ",
+        "startMs": 420,
+        "endMs": 1340
+      },
+      {
+        "word": "أَتَتْ",
+        "startMs": 1340,
+        "endMs": 2300
+      },
+      {
+        "word": "فِي",
+        "startMs": 2300,
+        "endMs": 3920
+      },
+      {
+        "word": "يَرْمَلُونَ",
+        "startMs": 3920,
+        "endMs": 4920
+      },
+      {
+        "word": "عِنْدَهُمْ",
+        "startMs": 4920,
+        "endMs": 5960
+      },
+      {
+        "word": "قَدْ",
+        "startMs": 5960,
+        "endMs": 6440
+      },
+      {
+        "word": "ثَبَتَتْ",
+        "startMs": 6440,
+        "endMs": 7410
+      }
+    ]
+  },
+  "10": {
+    "clipDurationMs": 9010,
+    "sadrWordCount": 4,
+    "words": [
+      {
+        "word": "لَكِنَّهَا",
+        "startMs": 0,
+        "endMs": 1120
+      },
+      {
+        "word": "قِسْمَانِ",
+        "startMs": 1120,
+        "endMs": 2040
+      },
+      {
+        "word": "قِسْمٌ",
+        "startMs": 2040,
+        "endMs": 2640
+      },
+      {
+        "word": "يُدْغَمَا",
+        "startMs": 2640,
+        "endMs": 3620
+      },
+      {
+        "word": "فِيهِ",
+        "startMs": 3620,
+        "endMs": 5680
+      },
+      {
+        "word": "بِغُنَّةٍ",
+        "startMs": 5680,
+        "endMs": 6760
+      },
+      {
+        "word": "بِيَنْمُو",
+        "startMs": 6760,
+        "endMs": 7580
+      },
+      {
+        "word": "عُلِمَا",
+        "startMs": 7580,
+        "endMs": 9010
+      }
+    ]
+  },
+  "11": {
+    "clipDurationMs": 11340,
+    "sadrWordCount": 5,
+    "words": [
+      {
+        "word": "إِلاَّ",
+        "startMs": 40,
+        "endMs": 1900
+      },
+      {
+        "word": "إِذَا",
+        "startMs": 1900,
+        "endMs": 2460
+      },
+      {
+        "word": "كَانَا",
+        "startMs": 2460,
+        "endMs": 2880
+      },
+      {
+        "word": "بِكِلْمَةٍ",
+        "startMs": 2880,
+        "endMs": 4040
+      },
+      {
+        "word": "فَلاَ",
+        "startMs": 4040,
+        "endMs": 4880
+      },
+      {
+        "word": "تُدْغِمْ",
+        "startMs": 4880,
+        "endMs": 7620
+      },
+      {
+        "word": "كَدُنْيَا",
+        "startMs": 7620,
+        "endMs": 8420
+      },
+      {
+        "word": "ثُمَّ",
+        "startMs": 8420,
+        "endMs": 8920
+      },
+      {
+        "word": "صِنْوَانٍ",
+        "startMs": 8920,
+        "endMs": 9800
+      },
+      {
+        "word": "تَلاَ",
+        "startMs": 9800,
+        "endMs": 11340
+      }
+    ]
+  },
+  "12": {
+    "clipDurationMs": 9370,
+    "sadrWordCount": 4,
+    "words": [
+      {
+        "word": "وَالثَّانِ",
+        "startMs": 40,
+        "endMs": 1440
+      },
+      {
+        "word": "إِدْغَامٌ",
+        "startMs": 1440,
+        "endMs": 2100
+      },
+      {
+        "word": "بِغَيْرِ",
+        "startMs": 2100,
+        "endMs": 3120
+      },
+      {
+        "word": "غُنَّهْ",
+        "startMs": 3120,
+        "endMs": 4120
+      },
+      {
+        "word": "فِي",
+        "startMs": 4120,
+        "endMs": 5780
+      },
+      {
+        "word": "اللاَّمِ",
+        "startMs": 5780,
+        "endMs": 6460
+      },
+      {
+        "word": "وَالرَّا",
+        "startMs": 6460,
+        "endMs": 7060
+      },
+      {
+        "word": "ثُمَّ",
+        "startMs": 7060,
+        "endMs": 7680
+      },
+      {
+        "word": "كَرِّرَنَّهْ",
+        "startMs": 7680,
+        "endMs": 9370
+      }
+    ]
+  },
+  "13": {
+    "clipDurationMs": 11338,
+    "sadrWordCount": 4,
+    "words": [
+      {
+        "word": "وَالثَّالثُ",
+        "startMs": 0,
+        "endMs": 2430
+      },
+      {
+        "word": "الإِقْلاَبُ",
+        "startMs": 2430,
+        "endMs": 3230
+      },
+      {
+        "word": "عِنْدَ",
+        "startMs": 3230,
+        "endMs": 3590
+      },
+      {
+        "word": "الْبَاءِ",
+        "startMs": 3590,
+        "endMs": 5170
+      },
+      {
+        "word": "مِيمًا",
+        "startMs": 5170,
+        "endMs": 7030
+      },
+      {
+        "word": "بِغُنَّةٍ",
+        "startMs": 7030,
+        "endMs": 8050
+      },
+      {
+        "word": "مَعَ",
+        "startMs": 8050,
+        "endMs": 8490
+      },
+      {
+        "word": "الإِخْفَاءِ",
+        "startMs": 8490,
+        "endMs": 11338
+      }
+    ]
+  },
+  "14": {
+    "clipDurationMs": 9210,
+    "sadrWordCount": 4,
+    "words": [
+      {
+        "word": "وَالرَّابِعُ",
+        "startMs": 20,
+        "endMs": 1420
+      },
+      {
+        "word": "الإِخْفَاءُ",
+        "startMs": 1420,
+        "endMs": 2140
+      },
+      {
+        "word": "عِنْدَ",
+        "startMs": 2140,
+        "endMs": 2580
+      },
+      {
+        "word": "الْفَاضِلِ",
+        "startMs": 2580,
+        "endMs": 3980
+      },
+      {
+        "word": "مِنَ",
+        "startMs": 3980,
+        "endMs": 5720
+      },
+      {
+        "word": "الحُرُوفِ",
+        "startMs": 5720,
+        "endMs": 6840
+      },
+      {
+        "word": "وَاجِبٌ",
+        "startMs": 6840,
+        "endMs": 7720
+      },
+      {
+        "word": "لِلْفَاضِلِ",
+        "startMs": 7720,
+        "endMs": 9210
+      }
+    ]
+  },
+  "15": {
+    "clipDurationMs": 10520,
+    "sadrWordCount": 6,
+    "words": [
+      {
+        "word": "فِي",
+        "startMs": 40,
+        "endMs": 1280
+      },
+      {
+        "word": "خَمْسَةٍ",
+        "startMs": 1280,
+        "endMs": 2040
+      },
+      {
+        "word": "مِنْ",
+        "startMs": 2040,
+        "endMs": 2380
+      },
+      {
+        "word": "بَعْدِ",
+        "startMs": 2380,
+        "endMs": 2940
+      },
+      {
+        "word": "عَشْرٍ",
+        "startMs": 2940,
+        "endMs": 3640
+      },
+      {
+        "word": "رَمْزُهَا",
+        "startMs": 3640,
+        "endMs": 5160
+      },
+      {
+        "word": "فِي",
+        "startMs": 5160,
+        "endMs": 6820
+      },
+      {
+        "word": "كِلْمِ",
+        "startMs": 6820,
+        "endMs": 7440
+      },
+      {
+        "word": "هَذَا",
+        "startMs": 7440,
+        "endMs": 7780
+      },
+      {
+        "word": "البَيْتِ",
+        "startMs": 7780,
+        "endMs": 8580
+      },
+      {
+        "word": "قَد",
+        "startMs": 8580,
+        "endMs": 9120
+      },
+      {
+        "word": "ضَّمَّنْتُهَا",
+        "startMs": 9120,
+        "endMs": 10520
+      }
+    ]
+  },
+  "16": {
+    "clipDurationMs": 11330,
+    "sadrWordCount": 8,
+    "words": [
+      {
+        "word": "صِفْ",
+        "startMs": 40,
+        "endMs": 970
+      },
+      {
+        "word": "ذَا",
+        "startMs": 970,
+        "endMs": 1900
+      },
+      {
+        "word": "ثَنَا",
+        "startMs": 1900,
+        "endMs": 2720
+      },
+      {
+        "word": "كَمْ",
+        "startMs": 2720,
+        "endMs": 3240
+      },
+      {
+        "word": "جَادَ",
+        "startMs": 3240,
+        "endMs": 3740
+      },
+      {
+        "word": "شَخْصٌ",
+        "startMs": 3740,
+        "endMs": 4280
+      },
+      {
+        "word": "قَدْ",
+        "startMs": 4280,
+        "endMs": 4840
+      },
+      {
+        "word": "سَمَا",
+        "startMs": 4840,
+        "endMs": 5340
+      },
+      {
+        "word": "دُمْ",
+        "startMs": 5340,
+        "endMs": 7500
+      },
+      {
+        "word": "طَيِّبًا",
+        "startMs": 7500,
+        "endMs": 8320
+      },
+      {
+        "word": "زِدْ",
+        "startMs": 8320,
+        "endMs": 8720
+      },
+      {
+        "word": "فِي",
+        "startMs": 8720,
+        "endMs": 8980
+      },
+      {
+        "word": "تُقًى",
+        "startMs": 8980,
+        "endMs": 9600
+      },
+      {
+        "word": "ضَعْ",
+        "startMs": 9600,
+        "endMs": 10140
+      },
+      {
+        "word": "ظَالِمَا",
+        "startMs": 10140,
+        "endMs": 11330
+      }
+    ]
+  },
+  "17": {
+    "clipDurationMs": 10700,
+    "sadrWordCount": 5,
+    "words": [
+      {
+        "word": "وَغُنَّ",
+        "startMs": 40,
+        "endMs": 540
+      },
+      {
+        "word": "مِيمًا",
+        "startMs": 540,
+        "endMs": 1060
+      },
+      {
+        "word": "ثُمَّ",
+        "startMs": 1060,
+        "endMs": 1520
+      },
+      {
+        "word": "نُونًا",
+        "startMs": 1520,
+        "endMs": 2280
+      },
+      {
+        "word": "شُدِّدَا",
+        "startMs": 2280,
+        "endMs": 4760
+      },
+      {
+        "word": "وَسَمِّ",
+        "startMs": 4760,
+        "endMs": 5460
+      },
+      {
+        "word": "كُلاً",
+        "startMs": 5460,
+        "endMs": 5900
+      },
+      {
+        "word": "حَرْفَ",
+        "startMs": 5900,
+        "endMs": 6760
+      },
+      {
+        "word": "غُنَّةٍ",
+        "startMs": 6760,
+        "endMs": 7540
+      },
+      {
+        "word": "بَدَا",
+        "startMs": 7540,
+        "endMs": 10700
+      }
+    ]
+  },
+  "18": {
+    "clipDurationMs": 10209,
+    "sadrWordCount": 6,
+    "words": [
+      {
+        "word": "وَالمِيمُ",
+        "startMs": 40,
+        "endMs": 760
+      },
+      {
+        "word": "إِنْ",
+        "startMs": 760,
+        "endMs": 940
+      },
+      {
+        "word": "تَسْكُنْ",
+        "startMs": 940,
+        "endMs": 1520
+      },
+      {
+        "word": "تَجِي",
+        "startMs": 1520,
+        "endMs": 2160
+      },
+      {
+        "word": "قَبْلَ",
+        "startMs": 2160,
+        "endMs": 2660
+      },
+      {
+        "word": "الْهِجَا",
+        "startMs": 2660,
+        "endMs": 3990
+      },
+      {
+        "word": "لاَ",
+        "startMs": 3990,
+        "endMs": 5320
+      },
+      {
+        "word": "أَلِفٍ",
+        "startMs": 5320,
+        "endMs": 6140
+      },
+      {
+        "word": "لَيِّنَةٍ",
+        "startMs": 6140,
+        "endMs": 7020
+      },
+      {
+        "word": "لِذِي",
+        "startMs": 7020,
+        "endMs": 7820
+      },
+      {
+        "word": "الْحِجَا",
+        "startMs": 7820,
+        "endMs": 10209
+      }
+    ]
+  },
+  "19": {
+    "clipDurationMs": 9335,
+    "sadrWordCount": 4,
+    "words": [
+      {
+        "word": "أَحْكَامُهَا",
+        "startMs": 0,
+        "endMs": 950
+      },
+      {
+        "word": "ثَلاَثَةٌ",
+        "startMs": 950,
+        "endMs": 2010
+      },
+      {
+        "word": "لِمَنْ",
+        "startMs": 2010,
+        "endMs": 2670
+      },
+      {
+        "word": "ضَبَطْ",
+        "startMs": 2670,
+        "endMs": 4950
+      },
+      {
+        "word": "إِخْفَاءٌ",
+        "startMs": 4950,
+        "endMs": 5490
+      },
+      {
+        "word": "ادْغَامٌ",
+        "startMs": 5490,
+        "endMs": 6290
+      },
+      {
+        "word": "وَإِظْهَارٌ",
+        "startMs": 6290,
+        "endMs": 7450
+      },
+      {
+        "word": "فَقَطْ",
+        "startMs": 7450,
+        "endMs": 9335
+      }
+    ]
+  },
+  "20": {
+    "clipDurationMs": 9452,
+    "sadrWordCount": 4,
+    "words": [
+      {
+        "word": "فَالأَوَّلُ",
+        "startMs": 0,
+        "endMs": 757
+      },
+      {
+        "word": "الإِخْفَاءُ",
+        "startMs": 757,
+        "endMs": 1537
+      },
+      {
+        "word": "عِنْدَ",
+        "startMs": 1537,
+        "endMs": 1937
+      },
+      {
+        "word": "الْبَاءِ",
+        "startMs": 1937,
+        "endMs": 4937
+      },
+      {
+        "word": "وَسَمِّهِ",
+        "startMs": 4937,
+        "endMs": 5637
+      },
+      {
+        "word": "الشَّفْوِيَّ",
+        "startMs": 5637,
+        "endMs": 6357
+      },
+      {
+        "word": "لِلْقُرَّاءِ",
+        "startMs": 6357,
+        "endMs": 9452
+      }
+    ]
+  },
+  "21": {
+    "clipDurationMs": 9783,
+    "sadrWordCount": 4,
+    "words": [
+      {
+        "word": "وَالثَّانِ",
+        "startMs": 0,
+        "endMs": 708
+      },
+      {
+        "word": "إِدْغَامٌ",
+        "startMs": 708,
+        "endMs": 1348
+      },
+      {
+        "word": "بِمِثْلِهَا",
+        "startMs": 1348,
+        "endMs": 2528
+      },
+      {
+        "word": "أَتَى",
+        "startMs": 2528,
+        "endMs": 4528
+      },
+      {
+        "word": "وَسَمِّ",
+        "startMs": 4528,
+        "endMs": 5228
+      },
+      {
+        "word": "إدْغَامًا",
+        "startMs": 5228,
+        "endMs": 6288
+      },
+      {
+        "word": "صَغِيرًا",
+        "startMs": 6288,
+        "endMs": 7328
+      },
+      {
+        "word": "يَا",
+        "startMs": 7328,
+        "endMs": 7648
+      },
+      {
+        "word": "فَتَى",
+        "startMs": 7648,
+        "endMs": 9783
+      }
+    ]
+  },
+  "22": {
+    "clipDurationMs": 9095,
+    "sadrWordCount": 4,
+    "words": [
+      {
+        "word": "وَالثَّالِثُ",
+        "startMs": 20,
+        "endMs": 1420
+      },
+      {
+        "word": "الإِظْهَارُ",
+        "startMs": 1420,
+        "endMs": 2360
+      },
+      {
+        "word": "فِي",
+        "startMs": 2360,
+        "endMs": 2620
+      },
+      {
+        "word": "الْبَقِيَّهْ",
+        "startMs": 2620,
+        "endMs": 5260
+      },
+      {
+        "word": "مِنْ",
+        "startMs": 5260,
+        "endMs": 5340
+      },
+      {
+        "word": "أَحْرُفٍ",
+        "startMs": 5340,
+        "endMs": 5960
+      },
+      {
+        "word": "وَسَمِّهَا",
+        "startMs": 5960,
+        "endMs": 7000
+      },
+      {
+        "word": "شَفْوِيَّهْ",
+        "startMs": 7000,
+        "endMs": 9095
+      }
+    ]
+  },
+  "23": {
+    "clipDurationMs": 10960,
+    "sadrWordCount": 6,
+    "words": [
+      {
+        "word": "وَاحْذَرْ",
+        "startMs": 20,
+        "endMs": 370
+      },
+      {
+        "word": "لَدَى",
+        "startMs": 370,
+        "endMs": 720
+      },
+      {
+        "word": "وَاوٍ",
+        "startMs": 720,
+        "endMs": 1460
+      },
+      {
+        "word": "وَفَا",
+        "startMs": 1460,
+        "endMs": 2030
+      },
+      {
+        "word": "أَنْ",
+        "startMs": 2030,
+        "endMs": 2600
+      },
+      {
+        "word": "تَخْتَفِي",
+        "startMs": 2600,
+        "endMs": 5380
+      },
+      {
+        "word": "لِقُرْبِهَا",
+        "startMs": 5380,
+        "endMs": 6220
+      },
+      {
+        "word": "وَلاتِّحَادِ",
+        "startMs": 6220,
+        "endMs": 7640
+      },
+      {
+        "word": "فَاعْرِفِ",
+        "startMs": 7640,
+        "endMs": 10960
+      }
+    ]
+  },
+  "24": {
+    "clipDurationMs": 10060,
+    "sadrWordCount": 5,
+    "words": [
+      {
+        "word": "لِلاَمِ",
+        "startMs": 100,
+        "endMs": 460
+      },
+      {
+        "word": "أَلْ",
+        "startMs": 460,
+        "endMs": 820
+      },
+      {
+        "word": "حَالاَنِ",
+        "startMs": 820,
+        "endMs": 1820
+      },
+      {
+        "word": "قَبْلَ",
+        "startMs": 1820,
+        "endMs": 2480
+      },
+      {
+        "word": "الأَحْرُفِ",
+        "startMs": 2480,
+        "endMs": 5280
+      },
+      {
+        "word": "أُولاَهُمَا",
+        "startMs": 5280,
+        "endMs": 6240
+      },
+      {
+        "word": "إِظْهَارُهَا",
+        "startMs": 6240,
+        "endMs": 7420
+      },
+      {
+        "word": "فَلْتَعْرِفِ",
+        "startMs": 7420,
+        "endMs": 10060
+      }
+    ]
+  },
+  "25": {
+    "clipDurationMs": 9955,
+    "sadrWordCount": 6,
+    "words": [
+      {
+        "word": "قَبْلَ",
+        "startMs": 20,
+        "endMs": 960
+      },
+      {
+        "word": "ارْبَعٍ",
+        "startMs": 960,
+        "endMs": 1480
+      },
+      {
+        "word": "مَعْ",
+        "startMs": 1480,
+        "endMs": 1860
+      },
+      {
+        "word": "عَشْرَةٍ",
+        "startMs": 1860,
+        "endMs": 2620
+      },
+      {
+        "word": "خُذْ",
+        "startMs": 2620,
+        "endMs": 3180
+      },
+      {
+        "word": "عِلْمَهُ",
+        "startMs": 3180,
+        "endMs": 4860
+      },
+      {
+        "word": "مِنِ",
+        "startMs": 4860,
+        "endMs": 5760
+      },
+      {
+        "word": "ابْغِ",
+        "startMs": 5760,
+        "endMs": 6140
+      },
+      {
+        "word": "حَجَّكَ",
+        "startMs": 6140,
+        "endMs": 6860
+      },
+      {
+        "word": "وَخَفْ",
+        "startMs": 6860,
+        "endMs": 7680
+      },
+      {
+        "word": "عَقِيمَهُ",
+        "startMs": 7680,
+        "endMs": 9955
+      }
+    ]
+  },
+  "26": {
+    "clipDurationMs": 9120,
+    "sadrWordCount": 4,
+    "words": [
+      {
+        "word": "ثَانِيهِمَا",
+        "startMs": 20,
+        "endMs": 1420
+      },
+      {
+        "word": "إِدْغَامُهَا",
+        "startMs": 1420,
+        "endMs": 2480
+      },
+      {
+        "word": "فِي",
+        "startMs": 2480,
+        "endMs": 2860
+      },
+      {
+        "word": "أَرْبَعِ",
+        "startMs": 2860,
+        "endMs": 4620
+      },
+      {
+        "word": "وَعَشْرَةٍ",
+        "startMs": 4620,
+        "endMs": 6180
+      },
+      {
+        "word": "أَيْضًا",
+        "startMs": 6180,
+        "endMs": 6960
+      },
+      {
+        "word": "وَرَمْزَهَا",
+        "startMs": 6960,
+        "endMs": 7940
+      },
+      {
+        "word": "فَعِ",
+        "startMs": 7940,
+        "endMs": 9120
+      }
+    ]
+  },
+  "27": {
+    "clipDurationMs": 10050,
+    "sadrWordCount": 8,
+    "words": [
+      {
+        "word": "طِبْ",
+        "startMs": 40,
+        "endMs": 1200
+      },
+      {
+        "word": "ثُمَّ",
+        "startMs": 1200,
+        "endMs": 1760
+      },
+      {
+        "word": "صِلْ",
+        "startMs": 1760,
+        "endMs": 2200
+      },
+      {
+        "word": "رُحْمًا",
+        "startMs": 2200,
+        "endMs": 2640
+      },
+      {
+        "word": "تَفُزْ",
+        "startMs": 2640,
+        "endMs": 3300
+      },
+      {
+        "word": "ضِفْ",
+        "startMs": 3300,
+        "endMs": 3680
+      },
+      {
+        "word": "ذَا",
+        "startMs": 3680,
+        "endMs": 4020
+      },
+      {
+        "word": "نِعَمْ",
+        "startMs": 4020,
+        "endMs": 5160
+      },
+      {
+        "word": "دَعْ",
+        "startMs": 5160,
+        "endMs": 6400
+      },
+      {
+        "word": "سُوءَ",
+        "startMs": 6400,
+        "endMs": 6900
+      },
+      {
+        "word": "ظَنٍّ",
+        "startMs": 6900,
+        "endMs": 7380
+      },
+      {
+        "word": "زُرْ",
+        "startMs": 7380,
+        "endMs": 7900
+      },
+      {
+        "word": "شَرِيفًا",
+        "startMs": 7900,
+        "endMs": 8720
+      },
+      {
+        "word": "لِلْكَرَمْ",
+        "startMs": 8720,
+        "endMs": 10050
+      }
+    ]
+  },
+  "28": {
+    "clipDurationMs": 9050,
+    "sadrWordCount": 4,
+    "words": [
+      {
+        "word": "وَاللاَّمُ",
+        "startMs": 100,
+        "endMs": 1140
+      },
+      {
+        "word": "الاُولَى",
+        "startMs": 1140,
+        "endMs": 2180
+      },
+      {
+        "word": "سَمِّهَا",
+        "startMs": 2180,
+        "endMs": 3040
+      },
+      {
+        "word": "قَمَرِيَّهْ",
+        "startMs": 3040,
+        "endMs": 4320
+      },
+      {
+        "word": "وَاللاَّمَ",
+        "startMs": 4320,
+        "endMs": 5570
+      },
+      {
+        "word": "الاُخْرَى",
+        "startMs": 5570,
+        "endMs": 6820
+      },
+      {
+        "word": "سَمِّهَا",
+        "startMs": 6820,
+        "endMs": 7760
+      },
+      {
+        "word": "شَمْسِيَّهْ",
+        "startMs": 7760,
+        "endMs": 9050
+      }
+    ]
+  },
+  "29": {
+    "clipDurationMs": 10750,
+    "sadrWordCount": 4,
+    "words": [
+      {
+        "word": "وأظْهِرَنَّ",
+        "startMs": 0,
+        "endMs": 2290
+      },
+      {
+        "word": "لاَمَ",
+        "startMs": 2290,
+        "endMs": 3070
+      },
+      {
+        "word": "فِعْلٍ",
+        "startMs": 3070,
+        "endMs": 3650
+      },
+      {
+        "word": "مُطْلَقَا",
+        "startMs": 3650,
+        "endMs": 5610
+      },
+      {
+        "word": "فِي",
+        "startMs": 5610,
+        "endMs": 6530
+      },
+      {
+        "word": "نَحْوِ",
+        "startMs": 6530,
+        "endMs": 7190
+      },
+      {
+        "word": "قُلْ",
+        "startMs": 7190,
+        "endMs": 7510
+      },
+      {
+        "word": "نَعَمْ",
+        "startMs": 7510,
+        "endMs": 8030
+      },
+      {
+        "word": "وَقُلْنَا",
+        "startMs": 8030,
+        "endMs": 9090
+      },
+      {
+        "word": "وَالْتَقَى",
+        "startMs": 9090,
+        "endMs": 10750
+      }
+    ]
+  },
+  "30": {
+    "clipDurationMs": 10920,
+    "sadrWordCount": 5,
+    "words": [
+      {
+        "word": "إِنْ",
+        "startMs": 10,
+        "endMs": 2330
+      },
+      {
+        "word": "فِي",
+        "startMs": 2330,
+        "endMs": 2610
+      },
+      {
+        "word": "الصِّفَاتِ",
+        "startMs": 2610,
+        "endMs": 3490
+      },
+      {
+        "word": "وَالمَخَارِجِ",
+        "startMs": 3490,
+        "endMs": 4980
+      },
+      {
+        "word": "اتَّفَقْ",
+        "startMs": 4980,
+        "endMs": 6470
+      },
+      {
+        "word": "حَرْفَانِ",
+        "startMs": 6470,
+        "endMs": 7870
+      },
+      {
+        "word": "فَالْمِثْلاَنِ",
+        "startMs": 7870,
+        "endMs": 9090
+      },
+      {
+        "word": "فِيهِمَا",
+        "startMs": 9090,
+        "endMs": 10010
+      },
+      {
+        "word": "أَحَقْ",
+        "startMs": 10010,
+        "endMs": 10920
+      }
+    ]
+  },
+  "31": {
+    "clipDurationMs": 10911,
+    "sadrWordCount": 4,
+    "words": [
+      {
+        "word": "وَإِنْ",
+        "startMs": 0,
+        "endMs": 2030
+      },
+      {
+        "word": "يَكُونَا",
+        "startMs": 2030,
+        "endMs": 2590
+      },
+      {
+        "word": "مَخْرَجًا",
+        "startMs": 2590,
+        "endMs": 3530
+      },
+      {
+        "word": "تَقَارَبَا",
+        "startMs": 3530,
+        "endMs": 5370
+      },
+      {
+        "word": "وَفِي",
+        "startMs": 5370,
+        "endMs": 6790
+      },
+      {
+        "word": "الصِّفَاتِ",
+        "startMs": 6790,
+        "endMs": 7570
+      },
+      {
+        "word": "اخْتَلَفَا",
+        "startMs": 7570,
+        "endMs": 8470
+      },
+      {
+        "word": "يُلَقَّبَا",
+        "startMs": 8470,
+        "endMs": 10911
+      }
+    ]
+  },
+  "32": {
+    "clipDurationMs": 10196,
+    "sadrWordCount": 4,
+    "words": [
+      {
+        "word": "مُتَقَارِبَيْنِ",
+        "startMs": 20,
+        "endMs": 1420
+      },
+      {
+        "word": "أَوْ",
+        "startMs": 1420,
+        "endMs": 1860
+      },
+      {
+        "word": "يَكُونَا",
+        "startMs": 1860,
+        "endMs": 2560
+      },
+      {
+        "word": "اتَّفَقَا",
+        "startMs": 2560,
+        "endMs": 4200
+      },
+      {
+        "word": "فِي",
+        "startMs": 4200,
+        "endMs": 5500
+      },
+      {
+        "word": "مَخْرَجٍ",
+        "startMs": 5500,
+        "endMs": 6260
+      },
+      {
+        "word": "دُونَ",
+        "startMs": 6260,
+        "endMs": 6800
+      },
+      {
+        "word": "الصِّفَاتِ",
+        "startMs": 6800,
+        "endMs": 7740
+      },
+      {
+        "word": "حُقِّقَا",
+        "startMs": 7740,
+        "endMs": 10196
+      }
+    ]
+  },
+  "33": {
+    "clipDurationMs": 8170,
+    "sadrWordCount": 4,
+    "words": [
+      {
+        "word": "بِالْمُتَجَانِسَيْنِ",
+        "startMs": 20,
+        "endMs": 1420
+      },
+      {
+        "word": "ثُمَّ",
+        "startMs": 1420,
+        "endMs": 2220
+      },
+      {
+        "word": "إِنْ",
+        "startMs": 2220,
+        "endMs": 2700
+      },
+      {
+        "word": "سَكَنْ",
+        "startMs": 2700,
+        "endMs": 3180
+      },
+      {
+        "word": "أَوَّلُ",
+        "startMs": 3180,
+        "endMs": 5160
+      },
+      {
+        "word": "كُلٍّ",
+        "startMs": 5160,
+        "endMs": 5760
+      },
+      {
+        "word": "فَالصَّغِيرَ",
+        "startMs": 5760,
+        "endMs": 7260
+      },
+      {
+        "word": "سَمِّيَنْ",
+        "startMs": 7260,
+        "endMs": 8170
+      }
+    ]
+  },
+  "34": {
+    "clipDurationMs": 10220,
+    "sadrWordCount": 6,
+    "words": [
+      {
+        "word": "أَوْ",
+        "startMs": 0,
+        "endMs": 1950
+      },
+      {
+        "word": "حُرِّكَ",
+        "startMs": 1950,
+        "endMs": 2490
+      },
+      {
+        "word": "الحَرْفَانِ",
+        "startMs": 2490,
+        "endMs": 3570
+      },
+      {
+        "word": "فِي",
+        "startMs": 3570,
+        "endMs": 3850
+      },
+      {
+        "word": "كُلٍّ",
+        "startMs": 3850,
+        "endMs": 4290
+      },
+      {
+        "word": "فَقُلْ",
+        "startMs": 4290,
+        "endMs": 5470
+      },
+      {
+        "word": "كُلٌّ",
+        "startMs": 5470,
+        "endMs": 7010
+      },
+      {
+        "word": "كَبِيرٌ",
+        "startMs": 7010,
+        "endMs": 7950
+      },
+      {
+        "word": "وافْهَمَنْهُ",
+        "startMs": 7950,
+        "endMs": 9050
+      },
+      {
+        "word": "بِالْمُثُلْ",
+        "startMs": 9050,
+        "endMs": 10220
+      }
+    ]
+  },
+  "35": {
+    "clipDurationMs": 9290,
+    "sadrWordCount": 4,
+    "words": [
+      {
+        "word": "وَالْمَدُّ",
+        "startMs": 0,
+        "endMs": 1240
+      },
+      {
+        "word": "أَصْلِيٌّ",
+        "startMs": 1240,
+        "endMs": 1840
+      },
+      {
+        "word": "وَفَرْعِيٌّ",
+        "startMs": 1840,
+        "endMs": 3040
+      },
+      {
+        "word": "لَهُ",
+        "startMs": 3040,
+        "endMs": 3680
+      },
+      {
+        "word": "وَسَمِّ",
+        "startMs": 3680,
+        "endMs": 5880
+      },
+      {
+        "word": "أَوَّلاً",
+        "startMs": 5880,
+        "endMs": 7020
+      },
+      {
+        "word": "طَبِيعِيًّا",
+        "startMs": 7020,
+        "endMs": 8220
+      },
+      {
+        "word": "وَهُو",
+        "startMs": 8220,
+        "endMs": 9290
+      }
+    ]
+  },
+  "36": {
+    "clipDurationMs": 8370,
+    "sadrWordCount": 6,
+    "words": [
+      {
+        "word": "مَا",
+        "startMs": 0,
+        "endMs": 120
+      },
+      {
+        "word": "لاَ",
+        "startMs": 120,
+        "endMs": 480
+      },
+      {
+        "word": "تَوَقُّفٌ",
+        "startMs": 480,
+        "endMs": 1680
+      },
+      {
+        "word": "لَهُ",
+        "startMs": 1680,
+        "endMs": 1920
+      },
+      {
+        "word": "عَلَى",
+        "startMs": 1920,
+        "endMs": 2620
+      },
+      {
+        "word": "سَبَبْ",
+        "startMs": 2620,
+        "endMs": 3520
+      },
+      {
+        "word": "وَلا",
+        "startMs": 3520,
+        "endMs": 5220
+      },
+      {
+        "word": "بِدُونِهِ",
+        "startMs": 5220,
+        "endMs": 6320
+      },
+      {
+        "word": "الحُرُوفُ",
+        "startMs": 6320,
+        "endMs": 7260
+      },
+      {
+        "word": "تُجْتَلَبْ",
+        "startMs": 7260,
+        "endMs": 8370
+      }
+    ]
+  },
+  "37": {
+    "clipDurationMs": 10980,
+    "sadrWordCount": 7,
+    "words": [
+      {
+        "word": "بلْ",
+        "startMs": 0,
+        "endMs": 1770
+      },
+      {
+        "word": "أَيُّ",
+        "startMs": 1770,
+        "endMs": 1990
+      },
+      {
+        "word": "حَرْفٍ",
+        "startMs": 1990,
+        "endMs": 2730
+      },
+      {
+        "word": "غَيْرُ",
+        "startMs": 2730,
+        "endMs": 3430
+      },
+      {
+        "word": "هَمْزٍ",
+        "startMs": 3430,
+        "endMs": 3990
+      },
+      {
+        "word": "أَوْ",
+        "startMs": 3990,
+        "endMs": 4250
+      },
+      {
+        "word": "سُكُونْ",
+        "startMs": 4250,
+        "endMs": 5230
+      },
+      {
+        "word": "جَا",
+        "startMs": 5230,
+        "endMs": 7190
+      },
+      {
+        "word": "بَعْدَ",
+        "startMs": 7190,
+        "endMs": 7730
+      },
+      {
+        "word": "مَدٍّ",
+        "startMs": 7730,
+        "endMs": 8230
+      },
+      {
+        "word": "فَالطَّبِيعِيَّ",
+        "startMs": 8230,
+        "endMs": 9730
+      },
+      {
+        "word": "يَكُونْ",
+        "startMs": 9730,
+        "endMs": 10980
+      }
+    ]
+  },
+  "38": {
+    "clipDurationMs": 9370,
+    "sadrWordCount": 4,
+    "words": [
+      {
+        "word": "وَالآخَرُ",
+        "startMs": 40,
+        "endMs": 1720
+      },
+      {
+        "word": "الْفَرْعِيُّ",
+        "startMs": 1720,
+        "endMs": 2500
+      },
+      {
+        "word": "مَوْقُوفٌ",
+        "startMs": 2500,
+        "endMs": 3500
+      },
+      {
+        "word": "عَلَى",
+        "startMs": 3500,
+        "endMs": 4020
+      },
+      {
+        "word": "سَبَبْ",
+        "startMs": 4020,
+        "endMs": 6420
+      },
+      {
+        "word": "كَهَمْزٍ",
+        "startMs": 6420,
+        "endMs": 7120
+      },
+      {
+        "word": "أَوْ",
+        "startMs": 7120,
+        "endMs": 7420
+      },
+      {
+        "word": "سُكُونٍ",
+        "startMs": 7420,
+        "endMs": 8160
+      },
+      {
+        "word": "مُسْجَلا",
+        "startMs": 8160,
+        "endMs": 9370
+      }
+    ]
+  },
+  "39": {
+    "clipDurationMs": 10950,
+    "sadrWordCount": 3,
+    "words": [
+      {
+        "word": "حُرُوفُهُ",
+        "startMs": 0,
+        "endMs": 2350
+      },
+      {
+        "word": "ثَلاَثَةٌ",
+        "startMs": 2350,
+        "endMs": 3570
+      },
+      {
+        "word": "فَعِيهَا",
+        "startMs": 3570,
+        "endMs": 4890
+      },
+      {
+        "word": "مِنْ",
+        "startMs": 4890,
+        "endMs": 6930
+      },
+      {
+        "word": "لَفْظِ",
+        "startMs": 6930,
+        "endMs": 7430
+      },
+      {
+        "word": "وَايٍ",
+        "startMs": 7430,
+        "endMs": 7990
+      },
+      {
+        "word": "وَهْيَ",
+        "startMs": 7990,
+        "endMs": 8750
+      },
+      {
+        "word": "فِي",
+        "startMs": 8750,
+        "endMs": 8990
+      },
+      {
+        "word": "نُوحِيهَا",
+        "startMs": 8990,
+        "endMs": 10950
+      }
+    ]
+  },
+  "40": {
+    "clipDurationMs": 9510,
+    "sadrWordCount": 6,
+    "words": [
+      {
+        "word": "وَالكَسْرُ",
+        "startMs": 40,
+        "endMs": 1440
+      },
+      {
+        "word": "قَبْلَ",
+        "startMs": 1440,
+        "endMs": 1920
+      },
+      {
+        "word": "الْيَا",
+        "startMs": 1920,
+        "endMs": 2300
+      },
+      {
+        "word": "وَقَبْلَ",
+        "startMs": 2300,
+        "endMs": 3180
+      },
+      {
+        "word": "الْواوِ",
+        "startMs": 3180,
+        "endMs": 3940
+      },
+      {
+        "word": "ضَمْ",
+        "startMs": 3940,
+        "endMs": 4320
+      },
+      {
+        "word": "شَرْطٌ",
+        "startMs": 4320,
+        "endMs": 6340
+      },
+      {
+        "word": "وَفَتْحٌ",
+        "startMs": 6340,
+        "endMs": 7120
+      },
+      {
+        "word": "قَبْلَ",
+        "startMs": 7120,
+        "endMs": 7820
+      },
+      {
+        "word": "أَلْفٍ",
+        "startMs": 7820,
+        "endMs": 8220
+      },
+      {
+        "word": "يُلْتَزَمْ",
+        "startMs": 8220,
+        "endMs": 9510
+      }
+    ]
+  },
+  "41": {
+    "clipDurationMs": 9820,
+    "sadrWordCount": 5,
+    "words": [
+      {
+        "word": "وَاللِّينُ",
+        "startMs": 0,
+        "endMs": 1990
+      },
+      {
+        "word": "مِنْهَا",
+        "startMs": 1990,
+        "endMs": 2470
+      },
+      {
+        "word": "الْيَا",
+        "startMs": 2470,
+        "endMs": 2850
+      },
+      {
+        "word": "وَوَاوٌ",
+        "startMs": 2850,
+        "endMs": 3550
+      },
+      {
+        "word": "سُكِّنَا",
+        "startMs": 3550,
+        "endMs": 5090
+      },
+      {
+        "word": "إِنِ",
+        "startMs": 5090,
+        "endMs": 6450
+      },
+      {
+        "word": "انْفِتَاحٌ",
+        "startMs": 6450,
+        "endMs": 7310
+      },
+      {
+        "word": "قَبْلَ",
+        "startMs": 7310,
+        "endMs": 8010
+      },
+      {
+        "word": "كُلٍّ",
+        "startMs": 8010,
+        "endMs": 8350
+      },
+      {
+        "word": "أُعْلِنَا",
+        "startMs": 8350,
+        "endMs": 9820
+      }
+    ]
+  },
+  "42": {
+    "clipDurationMs": 11180,
+    "sadrWordCount": 4,
+    "words": [
+      {
+        "word": "لِلْمَدِّ",
+        "startMs": 10,
+        "endMs": 2550
+      },
+      {
+        "word": "أَحْكَامٌ",
+        "startMs": 2550,
+        "endMs": 3330
+      },
+      {
+        "word": "ثَلاَثَةٌ",
+        "startMs": 3330,
+        "endMs": 4630
+      },
+      {
+        "word": "تَدُومْ",
+        "startMs": 4630,
+        "endMs": 5710
+      },
+      {
+        "word": "وَهْيَ",
+        "startMs": 5710,
+        "endMs": 7930
+      },
+      {
+        "word": "الْوُجُوبُ",
+        "startMs": 7930,
+        "endMs": 8670
+      },
+      {
+        "word": "وَالْجَوَازُ",
+        "startMs": 8670,
+        "endMs": 9970
+      },
+      {
+        "word": "وَاللُّزُومْ",
+        "startMs": 9970,
+        "endMs": 11180
+      }
+    ]
+  },
+  "43": {
+    "clipDurationMs": 9170,
+    "sadrWordCount": 6,
+    "words": [
+      {
+        "word": "فَوَاجِبٌ",
+        "startMs": 0,
+        "endMs": 2550
+      },
+      {
+        "word": "إِنْ",
+        "startMs": 2550,
+        "endMs": 2690
+      },
+      {
+        "word": "جَاءَ",
+        "startMs": 2690,
+        "endMs": 3410
+      },
+      {
+        "word": "هَمْزٌ",
+        "startMs": 3410,
+        "endMs": 3910
+      },
+      {
+        "word": "بَعْدَ",
+        "startMs": 3910,
+        "endMs": 4270
+      },
+      {
+        "word": "مَدْ",
+        "startMs": 4270,
+        "endMs": 5090
+      },
+      {
+        "word": "فِي",
+        "startMs": 5090,
+        "endMs": 6850
+      },
+      {
+        "word": "كِلْمَةٍ",
+        "startMs": 6850,
+        "endMs": 7550
+      },
+      {
+        "word": "وَذَا",
+        "startMs": 7550,
+        "endMs": 7817
+      },
+      {
+        "word": "بِمُتَّصِلٍ",
+        "startMs": 7817,
+        "endMs": 8083
+      },
+      {
+        "word": "يُعَدْ",
+        "startMs": 8083,
+        "endMs": 9170
+      }
+    ]
+  },
+  "44": {
+    "clipDurationMs": 8460,
+    "sadrWordCount": 5,
+    "words": [
+      {
+        "word": "وَجَائِزٌ",
+        "startMs": 0,
+        "endMs": 1250
+      },
+      {
+        "word": "مَدٌّ",
+        "startMs": 1250,
+        "endMs": 1610
+      },
+      {
+        "word": "وَقَصْرٌ",
+        "startMs": 1610,
+        "endMs": 2090
+      },
+      {
+        "word": "إِنْ",
+        "startMs": 2090,
+        "endMs": 2570
+      },
+      {
+        "word": "فُصِلْ",
+        "startMs": 2570,
+        "endMs": 3470
+      },
+      {
+        "word": "كُلٌّ",
+        "startMs": 3470,
+        "endMs": 5310
+      },
+      {
+        "word": "بِكِلْمَةٍ",
+        "startMs": 5310,
+        "endMs": 6470
+      },
+      {
+        "word": "وَهَذَا",
+        "startMs": 6470,
+        "endMs": 7470
+      },
+      {
+        "word": "المُنْفَصِلْ",
+        "startMs": 7470,
+        "endMs": 8460
+      }
+    ]
+  },
+  "45": {
+    "clipDurationMs": 9920,
+    "sadrWordCount": 5,
+    "words": [
+      {
+        "word": "وَمِثْلُ",
+        "startMs": 0,
+        "endMs": 2170
+      },
+      {
+        "word": "ذَا",
+        "startMs": 2170,
+        "endMs": 2550
+      },
+      {
+        "word": "إِنْ",
+        "startMs": 2550,
+        "endMs": 2770
+      },
+      {
+        "word": "عَرَضَ",
+        "startMs": 2770,
+        "endMs": 3450
+      },
+      {
+        "word": "السُّكُونُ",
+        "startMs": 3450,
+        "endMs": 4470
+      },
+      {
+        "word": "وَقْفًا",
+        "startMs": 4470,
+        "endMs": 7030
+      },
+      {
+        "word": "كَتَعْلَمُونَ",
+        "startMs": 7030,
+        "endMs": 8370
+      },
+      {
+        "word": "نَسْتَعِينُ",
+        "startMs": 8370,
+        "endMs": 9920
+      }
+    ]
+  },
+  "46": {
+    "clipDurationMs": 10320,
+    "sadrWordCount": 6,
+    "words": [
+      {
+        "word": "أَوْ",
+        "startMs": 0,
+        "endMs": 1230
+      },
+      {
+        "word": "قُدِّمَ",
+        "startMs": 1230,
+        "endMs": 2570
+      },
+      {
+        "word": "الْهَمْزُ",
+        "startMs": 2570,
+        "endMs": 3190
+      },
+      {
+        "word": "عَلَى",
+        "startMs": 3190,
+        "endMs": 3550
+      },
+      {
+        "word": "المَدِّ",
+        "startMs": 3550,
+        "endMs": 4150
+      },
+      {
+        "word": "وَذَا",
+        "startMs": 4150,
+        "endMs": 5090
+      },
+      {
+        "word": "بَدَلْ",
+        "startMs": 5090,
+        "endMs": 7450
+      },
+      {
+        "word": "كَآمَنُوا",
+        "startMs": 7450,
+        "endMs": 8610
+      },
+      {
+        "word": "وَإِيمَانًا",
+        "startMs": 8610,
+        "endMs": 9610
+      },
+      {
+        "word": "خُذَا",
+        "startMs": 9610,
+        "endMs": 10320
+      }
+    ]
+  },
+  "47": {
+    "clipDurationMs": 9500,
+    "sadrWordCount": 4,
+    "words": [
+      {
+        "word": "وَلاَزِمٌ",
+        "startMs": 0,
+        "endMs": 940
+      },
+      {
+        "word": "إِنِ",
+        "startMs": 940,
+        "endMs": 1260
+      },
+      {
+        "word": "السُّكُونُ",
+        "startMs": 1260,
+        "endMs": 2400
+      },
+      {
+        "word": "أُصِّلاَ",
+        "startMs": 2400,
+        "endMs": 3220
+      },
+      {
+        "word": "وَصْلاً",
+        "startMs": 3220,
+        "endMs": 5560
+      },
+      {
+        "word": "وَوَقْفًا",
+        "startMs": 5560,
+        "endMs": 6360
+      },
+      {
+        "word": "بَعْدَ",
+        "startMs": 6360,
+        "endMs": 6760
+      },
+      {
+        "word": "مَدٍّ",
+        "startMs": 6760,
+        "endMs": 7360
+      },
+      {
+        "word": "طُوِّلاَ",
+        "startMs": 7360,
+        "endMs": 9500
+      }
+    ]
+  },
+  "48": {
+    "clipDurationMs": 9538,
+    "sadrWordCount": 4,
+    "words": [
+      {
+        "word": "أَقْسَامُ",
+        "startMs": 0,
+        "endMs": 1100
+      },
+      {
+        "word": "لاَزِمٍ",
+        "startMs": 1100,
+        "endMs": 1960
+      },
+      {
+        "word": "لَدَيْهِمْ",
+        "startMs": 1960,
+        "endMs": 2860
+      },
+      {
+        "word": "أَرْبَعَهْ",
+        "startMs": 2860,
+        "endMs": 3560
+      },
+      {
+        "word": "وَتِلْكَ",
+        "startMs": 3560,
+        "endMs": 5740
+      },
+      {
+        "word": "كِلْمِيٌّ",
+        "startMs": 5740,
+        "endMs": 6500
+      },
+      {
+        "word": "وَحَرْفِيٌّ",
+        "startMs": 6500,
+        "endMs": 7600
+      },
+      {
+        "word": "مَعَهْ",
+        "startMs": 7600,
+        "endMs": 9538
+      }
+    ]
+  },
+  "49": {
+    "clipDurationMs": 8410,
+    "sadrWordCount": 3,
+    "words": [
+      {
+        "word": "كِلاَهُمَا",
+        "startMs": 20,
+        "endMs": 1420
+      },
+      {
+        "word": "مُخَفَّفٌ",
+        "startMs": 1420,
+        "endMs": 3090
+      },
+      {
+        "word": "مُثَقَّلُ",
+        "startMs": 3090,
+        "endMs": 4760
+      },
+      {
+        "word": "فَهَذِهِ",
+        "startMs": 4760,
+        "endMs": 6160
+      },
+      {
+        "word": "أَرْبَعَةٌ",
+        "startMs": 6160,
+        "endMs": 7020
+      },
+      {
+        "word": "تُفَصَّلُ",
+        "startMs": 7020,
+        "endMs": 8410
+      }
+    ]
+  },
+  "50": {
+    "clipDurationMs": 9130,
+    "sadrWordCount": 4,
+    "words": [
+      {
+        "word": "فَإِنْ",
+        "startMs": 0,
+        "endMs": 1200
+      },
+      {
+        "word": "بِكِلْمَةٍ",
+        "startMs": 1200,
+        "endMs": 1980
+      },
+      {
+        "word": "سُكُونٌ",
+        "startMs": 1980,
+        "endMs": 2900
+      },
+      {
+        "word": "اجْتَمَعْ",
+        "startMs": 2900,
+        "endMs": 4040
+      },
+      {
+        "word": "مَعْ",
+        "startMs": 4040,
+        "endMs": 5720
+      },
+      {
+        "word": "حَرْفِ",
+        "startMs": 5720,
+        "endMs": 6300
+      },
+      {
+        "word": "مَدٍّ",
+        "startMs": 6300,
+        "endMs": 6680
+      },
+      {
+        "word": "فَهْوَ",
+        "startMs": 6680,
+        "endMs": 7500
+      },
+      {
+        "word": "كِلْمِيٌّ",
+        "startMs": 7500,
+        "endMs": 8120
+      },
+      {
+        "word": "وَقَعْ",
+        "startMs": 8120,
+        "endMs": 9130
+      }
+    ]
+  },
+  "51": {
+    "clipDurationMs": 11078,
+    "sadrWordCount": 5,
+    "words": [
+      {
+        "word": "أَوْ",
+        "startMs": 0,
+        "endMs": 1610
+      },
+      {
+        "word": "فِي",
+        "startMs": 1610,
+        "endMs": 1850
+      },
+      {
+        "word": "ثُلاَثِيِّ",
+        "startMs": 1850,
+        "endMs": 2750
+      },
+      {
+        "word": "الحُرُوفِ",
+        "startMs": 2750,
+        "endMs": 3770
+      },
+      {
+        "word": "وُجِدَا",
+        "startMs": 3770,
+        "endMs": 4730
+      },
+      {
+        "word": "وَالمَدُّ",
+        "startMs": 4730,
+        "endMs": 7090
+      },
+      {
+        "word": "وَسْطُهُ",
+        "startMs": 7090,
+        "endMs": 7890
+      },
+      {
+        "word": "فَحَرْفِيٌّ",
+        "startMs": 7890,
+        "endMs": 8950
+      },
+      {
+        "word": "بَدَا",
+        "startMs": 8950,
+        "endMs": 11078
+      }
+    ]
+  },
+  "52": {
+    "clipDurationMs": 9650,
+    "sadrWordCount": 4,
+    "words": [
+      {
+        "word": "كِلاَهُمَا",
+        "startMs": 20,
+        "endMs": 1420
+      },
+      {
+        "word": "مُثَقَّلٌ",
+        "startMs": 1420,
+        "endMs": 1860
+      },
+      {
+        "word": "إِنْ",
+        "startMs": 1860,
+        "endMs": 2580
+      },
+      {
+        "word": "أُدْغِمَا",
+        "startMs": 2580,
+        "endMs": 5020
+      },
+      {
+        "word": "مَخَفَّفٌ",
+        "startMs": 5020,
+        "endMs": 6420
+      },
+      {
+        "word": "كُلٌّ",
+        "startMs": 6420,
+        "endMs": 6740
+      },
+      {
+        "word": "إِذَا",
+        "startMs": 6740,
+        "endMs": 7720
+      },
+      {
+        "word": "لَمْ",
+        "startMs": 7720,
+        "endMs": 8040
+      },
+      {
+        "word": "يُدْغَمَا",
+        "startMs": 8040,
+        "endMs": 9650
+      }
+    ]
+  },
+  "53": {
+    "clipDurationMs": 8590,
+    "sadrWordCount": 4,
+    "words": [
+      {
+        "word": "وَاللاَّزِمُ",
+        "startMs": 40,
+        "endMs": 1440
+      },
+      {
+        "word": "الْحَرْفِيُّ",
+        "startMs": 1440,
+        "endMs": 2420
+      },
+      {
+        "word": "أَوَّلَ",
+        "startMs": 2420,
+        "endMs": 3080
+      },
+      {
+        "word": "السُّوَرْ",
+        "startMs": 3080,
+        "endMs": 3760
+      },
+      {
+        "word": "وُجُودُهُ",
+        "startMs": 3760,
+        "endMs": 6060
+      },
+      {
+        "word": "وَفِي",
+        "startMs": 6060,
+        "endMs": 6720
+      },
+      {
+        "word": "ثَمَانٍ",
+        "startMs": 6720,
+        "endMs": 7580
+      },
+      {
+        "word": "انْحَصَرْ",
+        "startMs": 7580,
+        "endMs": 8590
+      }
+    ]
+  },
+  "54": {
+    "clipDurationMs": 10983,
+    "sadrWordCount": 5,
+    "words": [
+      {
+        "word": "يَجْمَعُهَا",
+        "startMs": 0,
+        "endMs": 2230
+      },
+      {
+        "word": "حُرُوفُ",
+        "startMs": 2230,
+        "endMs": 3370
+      },
+      {
+        "word": "كَمْ",
+        "startMs": 3370,
+        "endMs": 3750
+      },
+      {
+        "word": "عَسَلْ",
+        "startMs": 3750,
+        "endMs": 4190
+      },
+      {
+        "word": "نَقَصْ",
+        "startMs": 4190,
+        "endMs": 4930
+      },
+      {
+        "word": "وَعَيْنُ",
+        "startMs": 4930,
+        "endMs": 7110
+      },
+      {
+        "word": "ذُو",
+        "startMs": 7110,
+        "endMs": 7390
+      },
+      {
+        "word": "وَجْهَيْنِ",
+        "startMs": 7390,
+        "endMs": 8270
+      },
+      {
+        "word": "والطُّولُ",
+        "startMs": 8270,
+        "endMs": 9130
+      },
+      {
+        "word": "أَخَصْ",
+        "startMs": 9130,
+        "endMs": 10983
+      }
+    ]
+  },
+  "55": {
+    "clipDurationMs": 6910,
+    "sadrWordCount": 6,
+    "words": [
+      {
+        "word": "وَمَا",
+        "startMs": 20,
+        "endMs": 60
+      },
+      {
+        "word": "سِوَى",
+        "startMs": 60,
+        "endMs": 100
+      },
+      {
+        "word": "الحَرْفِ",
+        "startMs": 100,
+        "endMs": 400
+      },
+      {
+        "word": "الثُّلاَثِي",
+        "startMs": 400,
+        "endMs": 1220
+      },
+      {
+        "word": "لاَ",
+        "startMs": 1220,
+        "endMs": 1600
+      },
+      {
+        "word": "أَلِفْ",
+        "startMs": 1600,
+        "endMs": 2240
+      },
+      {
+        "word": "فَمَدُّهُ",
+        "startMs": 2240,
+        "endMs": 4380
+      },
+      {
+        "word": "مَدًّا",
+        "startMs": 4380,
+        "endMs": 4980
+      },
+      {
+        "word": "طَبِيعِيًّا",
+        "startMs": 4980,
+        "endMs": 6200
+      },
+      {
+        "word": "أُلِفْ",
+        "startMs": 6200,
+        "endMs": 6910
+      }
+    ]
+  },
+  "56": {
+    "clipDurationMs": 8990,
+    "sadrWordCount": 5,
+    "words": [
+      {
+        "word": "وَذَاكَ",
+        "startMs": 0,
+        "endMs": 980
+      },
+      {
+        "word": "أَيْضًا",
+        "startMs": 980,
+        "endMs": 1560
+      },
+      {
+        "word": "فِي",
+        "startMs": 1560,
+        "endMs": 1840
+      },
+      {
+        "word": "فَوَاتِحِ",
+        "startMs": 1840,
+        "endMs": 3000
+      },
+      {
+        "word": "السُّوَرْ",
+        "startMs": 3000,
+        "endMs": 3640
+      },
+      {
+        "word": "فِي",
+        "startMs": 3640,
+        "endMs": 5520
+      },
+      {
+        "word": "لَفْظِ",
+        "startMs": 5520,
+        "endMs": 6020
+      },
+      {
+        "word": "حَيٍّ",
+        "startMs": 6020,
+        "endMs": 6580
+      },
+      {
+        "word": "طَاهِرٍ",
+        "startMs": 6580,
+        "endMs": 7520
+      },
+      {
+        "word": "قَدِ",
+        "startMs": 7520,
+        "endMs": 8160
+      },
+      {
+        "word": "انْحَصَرْ",
+        "startMs": 8160,
+        "endMs": 8990
+      }
+    ]
+  },
+  "57": {
+    "clipDurationMs": 12810,
+    "sadrWordCount": 4,
+    "words": [
+      {
+        "word": "وَيَجْمَعُ",
+        "startMs": 0,
+        "endMs": 2390
+      },
+      {
+        "word": "الْفَوَاتِحَ",
+        "startMs": 2390,
+        "endMs": 3630
+      },
+      {
+        "word": "الأَرْبَعْ",
+        "startMs": 3630,
+        "endMs": 4350
+      },
+      {
+        "word": "عَشَرْ",
+        "startMs": 4350,
+        "endMs": 5010
+      },
+      {
+        "word": "صِلْهُ",
+        "startMs": 5010,
+        "endMs": 7230
+      },
+      {
+        "word": "سُحَيْرًا",
+        "startMs": 7230,
+        "endMs": 8270
+      },
+      {
+        "word": "مَنْ",
+        "startMs": 8270,
+        "endMs": 8530
+      },
+      {
+        "word": "قَطَعْكَ",
+        "startMs": 8530,
+        "endMs": 9210
+      },
+      {
+        "word": "ذَا",
+        "startMs": 9210,
+        "endMs": 9670
+      },
+      {
+        "word": "اشْتَهَرْ",
+        "startMs": 9670,
+        "endMs": 12810
+      }
+    ]
+  },
+  "58": {
+    "clipDurationMs": 10871,
+    "sadrWordCount": 5,
+    "words": [
+      {
+        "word": "وَتَمَّ",
+        "startMs": 40,
+        "endMs": 1440
+      },
+      {
+        "word": "ذَا",
+        "startMs": 1440,
+        "endMs": 1680
+      },
+      {
+        "word": "النَّظْمُ",
+        "startMs": 1680,
+        "endMs": 2160
+      },
+      {
+        "word": "بِحَمْدِ",
+        "startMs": 2160,
+        "endMs": 3020
+      },
+      {
+        "word": "اللَّهِ",
+        "startMs": 3020,
+        "endMs": 4000
+      },
+      {
+        "word": "عَلَى",
+        "startMs": 4000,
+        "endMs": 6160
+      },
+      {
+        "word": "تَمَامِهِ",
+        "startMs": 6160,
+        "endMs": 7720
+      },
+      {
+        "word": "بِلاَ",
+        "startMs": 7720,
+        "endMs": 8460
+      },
+      {
+        "word": "تَنَاهِي",
+        "startMs": 8460,
+        "endMs": 10871
+      }
+    ]
+  },
+  "59": {
+    "clipDurationMs": 9330,
+    "sadrWordCount": 5,
+    "words": [
+      {
+        "word": "أَبْيَاتُهُ",
+        "startMs": 20,
+        "endMs": 1420
+      },
+      {
+        "word": "نَدٌّ",
+        "startMs": 1420,
+        "endMs": 1940
+      },
+      {
+        "word": "بَداَ",
+        "startMs": 1940,
+        "endMs": 2480
+      },
+      {
+        "word": "لِذِي",
+        "startMs": 2480,
+        "endMs": 3020
+      },
+      {
+        "word": "النُّهَى",
+        "startMs": 3020,
+        "endMs": 5500
+      },
+      {
+        "word": "تَارِيخُهَا",
+        "startMs": 5500,
+        "endMs": 6900
+      },
+      {
+        "word": "بُشْرَى",
+        "startMs": 6900,
+        "endMs": 7640
+      },
+      {
+        "word": "لِمَنْ",
+        "startMs": 7640,
+        "endMs": 8200
+      },
+      {
+        "word": "يُتْقِنُهَا",
+        "startMs": 8200,
+        "endMs": 9330
+      }
+    ]
+  },
+  "60": {
+    "clipDurationMs": 11500,
+    "sadrWordCount": 4,
+    "words": [
+      {
+        "word": "ثُمَّ",
+        "startMs": 0,
+        "endMs": 2410
+      },
+      {
+        "word": "الصَّلاَةُ",
+        "startMs": 2410,
+        "endMs": 3430
+      },
+      {
+        "word": "وَالسَّلاَمُ",
+        "startMs": 3430,
+        "endMs": 4450
+      },
+      {
+        "word": "أَبَدَا",
+        "startMs": 4450,
+        "endMs": 6750
+      },
+      {
+        "word": "عَلَى",
+        "startMs": 6750,
+        "endMs": 7650
+      },
+      {
+        "word": "خِتَامِ",
+        "startMs": 7650,
+        "endMs": 8690
+      },
+      {
+        "word": "الأَنْبِيَاءِ",
+        "startMs": 8690,
+        "endMs": 10070
+      },
+      {
+        "word": "أَحْمَدَا",
+        "startMs": 10070,
+        "endMs": 11500
+      }
+    ]
+  },
+  "61": {
+    "clipDurationMs": 10310,
+    "sadrWordCount": 4,
+    "words": [
+      {
+        "word": "وَالآلِ",
+        "startMs": 0,
+        "endMs": 810
+      },
+      {
+        "word": "وَالصَّحْبِ",
+        "startMs": 810,
+        "endMs": 1650
+      },
+      {
+        "word": "وَكُلِّ",
+        "startMs": 1650,
+        "endMs": 2350
+      },
+      {
+        "word": "تَابِعِ",
+        "startMs": 2350,
+        "endMs": 4750
+      },
+      {
+        "word": "وَكُلِّ",
+        "startMs": 4750,
+        "endMs": 5970
+      },
+      {
+        "word": "قَارِئٍ",
+        "startMs": 5970,
+        "endMs": 6810
+      },
+      {
+        "word": "وكُلِّ",
+        "startMs": 6810,
+        "endMs": 7670
+      },
+      {
+        "word": "سَامِعِ",
+        "startMs": 7670,
+        "endMs": 10310
+      }
+    ]
+  }
+}
